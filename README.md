@@ -5,20 +5,19 @@
 Shout Out Passion Together(S.O.P.T) 23th - Android part
 
 ## Directory Info
-Exercises : Assignments of every seminars
-Projects : Result of evey seminars
-Slides : Textbook written by SOPT
+Exercises : Assignments of every seminars<br/>
+Projects : Result of evey seminars<br/>
+Slides : Textbook written by SOPT<br/>
 
 ## Develop Environments
-Language : Kotlin (and Java)
-minimum SDK : 25
-Target SDK : 28
-IDE : Android Studio
-OS : Windows 10
-
-
+Language : Kotlin (and Java)<br/>
+minimum SDK : 25<br/>
+Target SDK : 28<br/>
+IDE : Android Studio<br/>
+OS : Windows 10<br/>
 <br/>
-# SOPT
+
+# SOPT Projects
 Shout Our Passion Together!<br/>
 http://sopt.org/wp/<br/>
 
